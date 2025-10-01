@@ -53,7 +53,7 @@ The project is organized into logical directories to maintain a clean and scalab
 ## Demo
 
 [![View Demo on LinkedIn](screenshots/linkedin-demo-thumbnail.png)](https://www.linkedin.com/posts/karim-mamdouh-780086301_graduationproject-ai-flutter-activity-7341229163049013249-KXqB)
-[![project screens](https://github.com/karim1256/Pesto_AI/issues/1#issue-3471995289)
+![project screens](https://github.com/karim1256/Pesto_AI/issues/1#issue-3471995289)
 
 
 ## Getting Started
