@@ -1,6 +1,6 @@
 # Pesto AI
 
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/karim1256/Pesto_AI)
+▶️ [Watch Demo](https://github.com/user-attachments/assets/fc54176b-4f95-4bc2-92c2-22026a6e2c61)
 
 Pesto AI is a comprehensive telehealth application built with Flutter. It connects patients with veterinary doctors, offering features for appointment booking, video consultations, and profile management for both user types. The application also includes an AI-powered medical check feature for preliminary diagnosis from images.
 
