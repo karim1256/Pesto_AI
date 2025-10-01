@@ -50,7 +50,9 @@ The project is organized into logical directories to maintain a clean and scalab
   - `main.dart`: The entry point of the application, handling initialization and routing.
 
 
-▶️ [Watch Demo](https://github.com/username/repo/assets/12345678/abcdef12-3456-7890-abcd-ef1234567890)
+## Demo
+
+[![View Demo on LinkedIn](screenshots/linkedin-demo-thumbnail.png)](https://www.linkedin.com/posts/karim-mamdouh-780086301_graduationproject-ai-flutter-activity-7341229163049013249-KXqB)
 
 
 ## Getting Started
