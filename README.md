@@ -1,6 +1,5 @@
 # Pesto AI
 
-▶️ [Watch Demo](https://github.com/user-attachments/assets/fc54176b-4f95-4bc2-92c2-22026a6e2c61)
 
 Pesto AI is a comprehensive telehealth application built with Flutter. It connects patients with veterinary doctors, offering features for appointment booking, video consultations, and profile management for both user types. The application also includes an AI-powered medical check feature for preliminary diagnosis from images.
 
@@ -49,6 +48,10 @@ The project is organized into logical directories to maintain a clean and scalab
     - `payment/`: Manages the payment process and integration.
     - `Welcome/`: Contains the onboarding and splash screens.
   - `main.dart`: The entry point of the application, handling initialization and routing.
+
+
+▶️ [Watch Demo](https://github.com/username/repo/assets/12345678/abcdef12-3456-7890-abcd-ef1234567890)
+
 
 ## Getting Started
 
