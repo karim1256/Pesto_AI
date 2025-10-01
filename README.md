@@ -1,8 +1,47 @@
 # Pesto AI
 ![project screen](https://github.com/karim1256/Pesto_AI/blob/main/20251001_1102_AI%20Veterinary%20Care%20App_remix_01k6fcma5ge96bkremw8mmfacp%20(1).png)
 
+🎓 Graduation Project | Faculty of Computer Science – Misr University for Science and Technology (MUST)
 
-Pesto AI is a comprehensive telehealth application built with Flutter. It connects patients with veterinary doctors, offering features for appointment booking, video consultations, and profile management for both user types. The application also includes an AI-powered medical check feature for preliminary diagnosis from images.
+🎧 In a fast-paced world, pet owners face challenges:
+📌 Difficulty finding specialized vets  
+📌 No easy way to diagnose skin conditions  
+📌 Paper-based medical records often lost  
+📌 Poor communication with vets  
+
+🎯 That’s where **Pesto_AI** comes in – your smart veterinary companion 🐾
+
+📱 **Pesto_AI is a dual-interface mobile app**:  
+👨‍⚕️ **Vet Side:** Create a professional profile, record diagnoses, upload lab tests, and manage cases  
+🐶 **Pet Owner Side:** Register pets and access two key features:
+
+1️⃣ **AI-Powered Skin Diagnosis**  
+Take a photo of a visible skin issue — our model predicts the condition with 97% accuracy and shows probability for each possible disease.
+
+2️⃣ **Book Video Consultations**  
+Select a time, get notified, and join a real-time video call. Diagnosis is auto-saved to the pet’s digital medical file.
+
+🗂️ **Profiles for both users** keep medical history organized and accessible anytime.
+
+💳 **Supports local payments** like Vodafone Cash, Masary, plus flexible premium plans.
+
+💡 **Pesto_AI solves real-life problems by:**  
+✅ Connecting vets and pet owners faster  
+✅ Enabling informed decisions via AI  
+✅ Keeping all medical records digital and secure  
+
+🎬 Developed as part of our graduation project to bring AI into practical veterinary care.
+
+---
+
+🙏 **Special thanks to my amazing team:**  
+🔹 Youssef Mohamed – AI model for disease classification (deep learning & computer vision)  
+🔹 Karim Mamdoh – Flutter mobile app & UI/UX design  
+🔹 Mohammed Abbas & Mohamed Ramadan – Backend infrastructure, APIs, database integration  
+
+Proud to work with such a talented and dedicated team!
+
+---
 
 ## Features
 
@@ -50,31 +89,61 @@ The project is organized into logical directories to maintain a clean and scalab
     - `Welcome/`: Contains the onboarding and splash screens.
   - `main.dart`: The entry point of the application, handling initialization and routing.
 
+## App Visual
 
-## app visual
+### video
 
 [![View video on LinkedIn](screenshots/linkedin-demo-thumbnail.png)](https://www.linkedin.com/posts/karim-mamdouh-780086301_graduationproject-ai-flutter-activity-7341229163049013249-KXqB)
 
-![project screen](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20072347.png)
-![project screen](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20072436.png)
-![project screen](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20072452.png)
-![project screen](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20072514.png)
-![project screen](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20072531.png)
-![project screen](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20072623.png)
-![project screen](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20072700.png)
-![project screen](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20072733.png)
-![project screen](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20072800.png)
-![project screen](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20072818.png)
-![project screen](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20072944.png)
-![project screen](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20073042.png)
-![project screen](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20073103.png)
-![project screen](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20073231.png)
-![project screen](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20073356.png)
-![project screen](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20073443.png)
-![project screen](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20073518.png)
+### 📸 Screenshots
 
+### 🔑onboard
+![onboard](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20072347.png)
 
+### 🏠 User Dashboard
+![User Dashboard](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20072436.png)
 
+![Doctor Dashboard](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20072452.png)
+
+### 📅 Login & Sign Up
+![Appointment Booking](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20072514.png)
+
+![Appointment Details](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20072531.png)
+
+![Video Call](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20072623.png)
+
+### 📖 home page
+![Medical History](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20072700.png)
+
+### 🤖 AI skin diseases detector – Upload Image to gain result
+![Pet Profile](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20072733.png)
+
+### 👨‍⚕️ Doctor Profile
+![Case Management](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20072800.png)
+
+### 💳 Payment Gateway
+![Prescription](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20072818.png)
+
+![Payment Gateway](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20072944.png)
+
+### 🙍‍♂️ User Profile
+![AI Upload](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20073103.png)
+
+### 📖 Medical History (doctor give diagnosis after appointment)
+![AI Result](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20073042.png)
+
+### 🔔 Appointment Callender
+![Notifications](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20073231.png)
+
+### 🎥 Medical Appointment (Video Call) 
+![Settings](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20073356.png)
+
+![Doctor Profile](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20073443.png)
+
+### User & Doctor Reviews
+![User Profile](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20073518.png)
+
+---
 
 ## Getting Started
 
@@ -87,41 +156,32 @@ To get a local copy up and running, follow these simple steps.
 
 ### Installation
 
-1.  **Clone the repository:**
+1. **Clone the repository:**
     ```sh
     git clone https://github.com/karim1256/Pesto_AI.git
     cd Pesto_AI
     ```
 
-2.  **Install dependencies:**
+2. **Install dependencies:**
     ```sh
     flutter pub get
     ```
 
-3.  **Configure Environment Variables:**
+3. **Configure Environment Variables:**
     This project uses Supabase for the backend and Agora for video calls. You will need to create your own accounts and replace the placeholder keys in the code.
 
-    -   **Supabase:** In `lib/main.dart`, replace the placeholder `url` and `anonKey` with your own Supabase project credentials.
-        ```dart
-        await Supabase.initialize(
-          url: "YOUR_SUPABASE_URL",
-          anonKey: "YOUR_SUPABASE_ANON_KEY",
-        );
-        ```
-    -   **Agora:** In `lib/Core/Consts/Constants.dart`, replace the placeholder `appId` and `token` with your Agora project credentials.
-        ```dart
-        const appId = "YOUR_AGORA_APP_ID";
-        const token = "YOUR_AGORA_TOKEN";
-        ```
-    -   **Payment Gateway:** In `lib/Features/payment/Payment.dart`, replace the placeholder `accessToken` with your Fawaterk API key.
-        ```dart
-        String accessToken = 'YOUR_FAWATERK_ACCESS_TOKEN';
-        ```
-    -   **AI Prediction API:** In `lib/Features/PatientFeatures/PatientFeaturesCubit/PatientFeaturesCubit.dart`, update the `uri` in the `postImageForPrediction` method to point to your deployed prediction server.
-        ```dart
-         var uri = Uri.parse('http://YOUR_API_IP_ADDRESS:5000/api/v1/predict');
-        ```
+    - **Supabase:** In `lib/main.dart`, replace the placeholder `url` and `anonKey` with your own Supabase project credentials.
+    - **Agora:** In `lib/Core/Consts/Constants.dart`, replace the placeholder `appId` and `token` with your Agora project credentials.
+    - **Payment Gateway:** In `lib/Features/payment/Payment.dart`, replace the placeholder `accessToken` with your Fawaterk API key.
+    - **AI Model:** Clone and run the AI Model:
+      
+      ```sh
+      git clone https://github.com/Yassaadel/dog-skin-disease-api.git
+      cd dog-skin-disease-api
+      ```
+    - **Prediction API:** In `lib/Features/PatientFeatures/PatientFeaturesCubit/PatientFeaturesCubit.dart`, update the `uri` in `postImageForPrediction` to point to your deployed prediction server.
 
-4.  **Run the application:**
+4. **Run the application:**
     ```sh
     flutter run
+    ```
