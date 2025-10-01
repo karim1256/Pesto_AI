@@ -71,7 +71,7 @@ The project is organized into logical directories to maintain a clean and scalab
 ![project screen](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20073231.png)
 ![project screen](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20073356.png)
 ![project screen](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20073443.png)
-![project screen](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20073443.png)
+![project screen](https://github.com/karim1256/Pesto_AI/blob/main/Screenshot%202025-10-01%20073518.png)
 
 
 
